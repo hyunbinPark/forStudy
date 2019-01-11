@@ -15,3 +15,4 @@ wf = soup.find("wf").string
 print(title)
 print(wf)
 
+
