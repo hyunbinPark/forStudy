@@ -10,7 +10,7 @@ Jpa Repository 에서 query를 사용할 때, 테이블의 field 이름에 under
  
 ex )
 
-'''
+```
   @Column(name = "municipal_id", nullable = false)
   private Integer municipalId; // <-- field was renamed
-'''
+```
