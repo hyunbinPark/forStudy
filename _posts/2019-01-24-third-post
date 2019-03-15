@@ -1,6 +1,6 @@
 ---
 title: "Browserify 나 Webpack 을 사용해 bundle 하는 이유 "
-date: 2017-01-24 13:14:21 -0400
+date: 2019-01-24 13:14:21 -0400
 categories: Study
 ---
 Webpack과 Browserify는 Javascript module Dependency를 관리하는 도구이다.
